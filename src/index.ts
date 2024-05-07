@@ -22,7 +22,7 @@ console.log(tax(2024,45));
 
 const enum Size { small, medium, large };
 let  postSize:Size = Size.large;
-console.log(postSize);   // :- 2
+console.log(postSize);    // :- 2
 
 
 type RequestState =
